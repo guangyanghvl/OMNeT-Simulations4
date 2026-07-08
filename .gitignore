@@ -1,0 +1,18 @@
+# Build output
+out/
+bin/
+obj/
+
+# OMNeT++ results
+results/
+*.vec
+*.sca
+*.vci
+
+# Temporary / OS
+.DS_Store
+*.log
+*~
+
+#Eclipse / workspace metadata
+./metadata/

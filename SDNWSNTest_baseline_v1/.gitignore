@@ -1,0 +1,25 @@
+#Build output
+out/
+bin/
+obj/
+*.o
+*.so
+*.a
+*.dll
+*.exe
+
+#OMNeT++ results
+results/
+*.vec
+*.sca
+*.vci
+
+#Eclipse / OMNet++ IDE
+.metadata/
+*.pydevproject
+
+#Temporary files
+*.log
+*.bak
+*~
+.DS_Store
